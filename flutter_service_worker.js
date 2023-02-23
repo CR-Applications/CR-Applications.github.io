@@ -45,9 +45,9 @@ const RESOURCES = {
 "privacy_policy/hacker-simulation-privacy-policy.html": "da60f587bf3df10ad922fabe06ae0518",
 "manifest.json": "778284a8d73d4d18b375320fc0c8b101",
 "version.json": "b3e61575a74e9dd8ebf20fbf78b62468",
-"main.dart.js": "257c944ba14c0ba5b37532a445363807",
-"index.html": "b7c76274c845598d1fad5a4739fb6baf",
-"/": "b7c76274c845598d1fad5a4739fb6baf"
+"main.dart.js": "1eae65a5e70d044afe4f462bf1797b5b",
+"index.html": "db23c25082ff61e3984b57f6572e265d",
+"/": "db23c25082ff61e3984b57f6572e265d"
 };
 
 // The application shell files that are downloaded before a service worker can
