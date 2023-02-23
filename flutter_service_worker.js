@@ -29,6 +29,8 @@ const RESOURCES = {
 "assets/assets/images/calculator_background_hd.jpg": "7e11d27566bbfa9b808dd199acfdf003",
 "assets/shaders/ink_sparkle.frag": "52a81f2bfd3666fd44346152cc7eb26f",
 "assets/NOTICES": "070abf7bb57af370f6038c951279e190",
+"hacker-simulation-privacy-policy-2/index.html": "da60f587bf3df10ad922fabe06ae0518",
+"/": "ff967a0c16ca68f8a0483b9391cdfdb0",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -40,14 +42,12 @@ const RESOURCES = {
 "icons/favicon-16x16.png": "3763b131e1008dffd09b96bad7edf267",
 "icons/android-chrome-192x192.png": "6f46f3ef82bea19ccf51d9f339741055",
 "icons/favicon-32x32.png": "a0494bf4ceaeecb88c75453310f24f0c",
-"privacy_policy/4-images-1-term-privacy-policy.html": "18bc5b0495d4519d83a98567fd2b628d",
-"privacy_policy/calculus-formulas-privacy-policy.html": "27c7478a3190d8e57108914abc1ba474",
-"privacy_policy/hacker-simulation-privacy-policy.html": "da60f587bf3df10ad922fabe06ae0518",
 "manifest.json": "778284a8d73d4d18b375320fc0c8b101",
+"4-images-1-term-privacy-policy/index.html": "18bc5b0495d4519d83a98567fd2b628d",
 "version.json": "b3e61575a74e9dd8ebf20fbf78b62468",
 "main.dart.js": "1eae65a5e70d044afe4f462bf1797b5b",
-"index.html": "db23c25082ff61e3984b57f6572e265d",
-"/": "db23c25082ff61e3984b57f6572e265d"
+"calculus-formulas-privacy-policy/index.html": "27c7478a3190d8e57108914abc1ba474",
+"index.html": "ff967a0c16ca68f8a0483b9391cdfdb0"
 };
 
 // The application shell files that are downloaded before a service worker can
